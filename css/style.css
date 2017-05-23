@@ -5,6 +5,10 @@ header{
   z-index: 1;
 }
 
+.navegador{
+  position: fixed;
+}
+
 header li a{
   color: grey;
 }
@@ -135,3 +139,5 @@ footer li a:hover{
 footer span{
   padding-left: 10px;
 }
+
+/*version mobile*/
