@@ -1,0 +1,137 @@
+
+header{
+  position: fixed;
+  background-color: white;
+  z-index: 1;
+}
+
+header li a{
+  color: grey;
+}
+
+.imgViaja{
+  background-image: url(../img/taxi.jpg);
+  background-position: bottom;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+
+.imgViajaForm{
+  width: 25%;
+  height: 25%;
+}
+
+.viajaForm{
+  background-color: #FAAE27;
+  color: white;
+  padding: 2%;
+  margin-top: 180px;
+}
+
+button{
+  background-color: white;
+  color: black;
+  border-radius: 5%;
+  border: none;
+}
+
+.fondoApp{
+  background-color: #FAAE27;
+}
+
+.contenidoApp{
+  border: 1px solid white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 25px;
+  color: white;
+}
+
+.imgApp{
+  width: 50%;
+  height: 50%;
+}
+
+.imgConduce{
+  background-image: url(../img/conduce.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+
+.contenidoConduce{
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 400px;
+}
+
+.textoConduce{
+  margin-top: 110px;
+  color: white;
+  padding: 2%;
+}
+
+.botonConduce{
+    background-color: #FAAE27;
+    color: white;
+    border-radius: 5%;
+    border: none;
+}
+
+.fondoTarifas{
+  background-color: #FAAE27;
+}
+
+.contenidoTarifas{
+  padding-top: 5%;
+  color: white;
+
+}
+.imgTarifasForm{
+  display: inline-block;
+}
+
+.imgTarifas{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.inputTarifas{
+  background-color: #FAAE27;
+  border: 1px solid white;
+  padding-left: 10px;
+}
+
+.botonTarifas{
+  padding: 5px 20px;
+  border: none;
+}
+
+.contenidoFooter{
+  background-color: #3E3F40;
+  color: white;
+  line-height: 2;
+}
+
+.imgFooter{
+  padding-top: 10px;
+  width: 60%;
+  height: 60%;
+}
+
+.imgAppStore{
+  padding-top: 100px;
+}
+
+footer li a{
+  color: white;
+}
+
+footer li a:hover{
+  color: #FAAE27;
+}
+footer span{
+  padding-left: 10px;
+}
